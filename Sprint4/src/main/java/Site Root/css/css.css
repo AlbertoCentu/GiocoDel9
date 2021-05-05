@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-apr-2021, 10.08.37
+    Author     : alber
+*/
+
+#start, #load, #reset, #save {
+    width: 465px;
+}
+
+
+#but0, #but1, #but2, #but3, #but4, #but5, #but6, #but7, #but8 {
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    font-size:30px;
+}
+
